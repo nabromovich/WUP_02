@@ -46,7 +46,9 @@ This shows that c39 has less vitamin C when compared to c52 cultivation method.
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-
+  
+  The numerical descriptive shows that on average the c39 method has 51.5 vitamin c and the c52 method has an average of 64.4 of vitamin c.   
+  
 
 ## Inferential Results
 
