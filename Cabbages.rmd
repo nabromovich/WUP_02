@@ -37,7 +37,8 @@ veggy <- cabbages
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
-
+  
+This shows that c39 has less vitamin C when compared to c52 cultivation method. 
 
 ### Numerical Descriptive Results
 
