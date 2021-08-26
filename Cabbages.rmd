@@ -56,10 +56,9 @@ favstats(VitC~Cult,data=veggy)
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-
-
+  After running the t-test we find the the p-value is 0.0000003405 showing that the difference between the two groups are not equal to 3.405e-08
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-We set out to determine how two different cultivation methods would result in a different average of vitamin c.  
+We set out to determine how two different cultivation methods would result in a different average of vitamin c.  The data found in this study showed that group c52 had a higher average of vitamin c than the c39 group.  
