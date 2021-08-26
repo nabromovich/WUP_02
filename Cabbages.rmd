@@ -56,7 +56,7 @@ favstats(VitC~Cult,data=veggy)
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-  After running the t-test we find the the p-value is 0.0000003405 showing that the difference between the two groups are not equal to 3.405e-08
+  After running the t-test we find the the p-value is 0.0000003405 showing that the difference between the two groups are not equal to 3.405e-08.  
 
 # Discussion and Conclusion
 
